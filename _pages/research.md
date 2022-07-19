@@ -6,4 +6,8 @@ author_profile: true
 comments: true
 ---
 
-research.
+{% for research in site.research %}
+## {{ research.title }}
+{{ research.content }}
+{% include archive-single.html %}
+{% endfor %}

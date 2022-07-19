@@ -282,6 +282,11 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+        research:
+                output: True
+        software:
+                output: True
 
 # Defaults
 defaults:
