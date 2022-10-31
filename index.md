@@ -100,7 +100,7 @@ I'm a CS master's student at the University of Maryland (UMD), graduating in May
 <li> Implemented a faster REDFT00 sub-transform algorithm. The new algorithm improved the performance of this transform for large-scale inputs by 35%. </li>
 </ul>
 </details>
-<hr style="border: 2px solid black; margin: 3em 0 3em; background-color: black;">
+<hr style="border: 1.5px solid black; margin: 3em 0 3em; background-color: black;">
 
 ## Selected Projects:
 <p style="margin: 0 0 0.5em;"><b>Marius: High-Performance Software for Large-Scale Graph Embeddings</b></p>
@@ -118,7 +118,7 @@ I'm a CS master's student at the University of Maryland (UMD), graduating in May
 <li> A Java implementation of a board game called Qirkat and its game AI. Implemented the game AI using alpha-beta pruning and several heuristics. </li>
 </ul>
 
-<hr style="border: 1.5px solid black; margin: 3em 0 3em; background-color: black;">
+<hr style="border: 2px solid black; margin: 3em 0 3em; background-color: black;">
 
 ## Publications:
 - [**Chaining Multiple Tools and Libraries Using Gotcha** (SC '21 Poster)](https://pssg.cs.umd.edu/assets/posters/2021-11-chaining-tools-sc.pdf)
